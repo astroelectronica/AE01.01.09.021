@@ -1,0 +1,8 @@
+*line regulation
+.include ../AE01.01.09.021.cir
+.param ILOAD=5
+.param VSOURCE=76
+.param VSUPPLY=12
+.dc V1 6 {VSOURCE} 0.001
+.backanno
+.op
